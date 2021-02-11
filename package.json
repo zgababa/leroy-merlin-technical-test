@@ -1,0 +1,15 @@
+{
+  "name": "technical-test",
+  "version": "1.0.0",
+  "description": "A technical test for a (super) great company ;)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app --filter=ry --count",
+    "test": "jest"
+  },
+  "author": "Fabien de Maestri",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
